@@ -60,4 +60,10 @@ USE superstore_db;
 
 - `superstore_sales_analysis.sql` – SQL queries for analysis
 - `superstore_sales_schema.sql` – SQL to create table structure
+- `superstore_data.csv` - Dataset
 - `README.md` – project overview and instructions
+
+## Contact
+
+For questions or suggestions, feel free to connect via LinkedIn or GitHub!
+https://www.linkedin.com/in/meghna-dey-a5906a305?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFuubh9VsQxaCAlCIJ8D4xQ%3D%3D
